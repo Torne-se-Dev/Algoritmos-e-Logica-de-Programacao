@@ -1,4 +1,4 @@
-# Algoritimos-e-Logica-de-Programacao
+# Algoritimos e Lógica de Programação
 
 *Exercícios*
 
