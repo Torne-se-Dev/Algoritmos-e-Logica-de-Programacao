@@ -1,2 +1,5 @@
 # Algoritimos-e-Logica-de-Programacao
-Exercícios
+
+*Exercícios*
+
+Ambiente onde os programadores publicam seus exercícios.
